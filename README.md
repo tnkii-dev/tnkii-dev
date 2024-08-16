@@ -6,7 +6,7 @@ Hola. Soy tnkii y soy un desarrollador con experiencia en multiples lenguages y 
 
 También soy un artista así que mis proyectos suelen ser herramientas creativas o de aprendizaje.
 
-✧ ───── • ───── ♡ ───── • S───── ✧
+✧ ───── • ───── ♡ ───── • ───── ✧
 
 ## Mis proyectos:
 
