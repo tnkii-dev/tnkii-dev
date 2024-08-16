@@ -28,16 +28,11 @@ El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientad
 
 ###### Juegos
 - [ ] <del>Stellario</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Maid Chan Adventure</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Girl's kingdom</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Black Pink Quest</del>
-- [ ] <del style="background-color:#000;color:#000;">
-GGG</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Animal Fighters</del>
+- [ ] ᒲᔑ╎↸ ᓵ⍑ᔑリ ᔑ↸⍊ᒷリℸ ̣ ⚍∷ᒷ
+- [ ] ⊣╎∷ꖎᓭ ꖌ╎リ⊣↸𝙹ᒲ
+- [ ] ʖꖎᔑᓵꖌ !¡╎リꖌ ᑑ⚍ᒷᓭℸ ̣
+- [ ] ⊣⊣⊣
+- [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
 
 ###### Proyectos Creativos
 - [ ] niupleis.com/VAULT
@@ -51,11 +46,7 @@ Animal Fighters</del>
 - [ ] Tsuki
 - [ ] <del>Ares (Stellario)</del>
 - [ ] <del>Punk Suteki > Lis, Mishil, Jiwoon, Chaery</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Mahou Shoujo</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Animal Fighters > Tazzy</del>
-- [ ] <del style="background-color:#000;color:#000;">
-*Goth Girl</del>
-- [ ] <del style="background-color:#000;color:#000;">
-Adora</del>
+- [ ] ᒲᔑ⍑𝙹⚍ ᓭ⍑𝙹⚍⋮𝙹
+- [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
+- [ ] ⊣𝙹ℸ ̣ ⍑ ⊣╎∷ꖎ
+- [ ] ᔑ↸𝙹∷ᔑZ
