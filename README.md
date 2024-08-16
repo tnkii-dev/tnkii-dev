@@ -6,10 +6,56 @@ Hola. Soy tnkii y soy un desarrollador con experiencia en multiples lenguages y 
 
 También soy un artista así que mis proyectos suelen ser herramientas creativas o de aprendizaje.
 
-✧ ─────────────── • ─────────────── ♡ ─────────────── • ─────────────── ✧
+✧ ───── • ───── ♡ ───── • S───── ✧
 
 ## Mis proyectos:
 
 El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientado ayudar a estudiar acordes de jazz con el método de repeticion espaciada.
 
 <a href="https://github.com/tnkii-dev/sexy-knob">&#60;sexy-knob&#62;</a>, Un módulo de input para html.
+
+---
+
+###### WEB
+- [x] blog.niupleis.com
+- [ ] niupleis.com
+- [ ] <del style="background-color:#000;color:#000;">niupleis.online</del>
+
+###### Opensource
+- [x] [acordes](https://github.com/tnkii-dev/acordes)
+- [x] [sexy knob](https://github.com/tnkii-dev/sexy-knob)
+- [ ] [snappifree](https://github.com/tnkii-dev/snappifree)
+
+###### Juegos
+- [ ] <del>Stellario</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Maid Chan Adventure</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Girl's kingdom</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Black Pink Quest</del>
+- [ ] <del style="background-color:#000;color:#000;">
+GGG</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Animal Fighters</del>
+
+###### Proyectos Creativos
+- [ ] niupleis.com/VAULT
+- [ ] niupleis.com/pleisad
+- [ ] niupleis.com/PunkSuteki
+- [ ] niupleis.com/tnkii
+
+###### niupleis.com > Fábrica de Waifus
+
+- [x] Maid Chan
+- [ ] Tsuki
+- [ ] <del>Ares (Stellario)</del>
+- [ ] <del>Punk Suteki > Lis, Mishil, Jiwoon, Chaery</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Mahou Shoujo</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Animal Fighters > Tazzy</del>
+- [ ] <del style="background-color:#000;color:#000;">
+*Goth Girl</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Adora</del>
