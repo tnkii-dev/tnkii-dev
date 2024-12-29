@@ -16,19 +16,24 @@ El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientad
 
 ---
 
-###### <details><summary>WEB</summary>
+<details><summary>WEB</summary>
+
 - [x] [blog.niupleis.com](https://blog.niupleis.com/)
 - [x] [niupleis.com](https://niupleis.com/)
 - [ ] <del style="background-color:#000;color:#000;">niupleis.online</del>
+
 </details>
 
-###### <details><summary>Opensource</summary>
+<details><summary>Opensource</summary>
+
 - [x] [acordes](https://github.com/tnkii-dev/acordes)
 - [x] [sexy knob](https://github.com/tnkii-dev/sexy-knob)
 - [ ] [NekoPlay.js](https://github.com/tnkii-dev/NekoPlay.js)
+
 </details>
 
-###### <details><summary>Juegos</summary>
+<details><summary>Juegos</summary>
+
 - [ ] <del>Mai Chan Cuddle Quest</del>
 - [ ] <del>Stellario</del>
 - [ ] ⊣╎∷ꖎᓭ ꖌ╎リ⊣↸𝙹ᒲ
@@ -36,15 +41,19 @@ El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientad
 - [ ] ⊣⊣⊣
 - [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
 
-###### <details><summary>Proyectos Creativos</summary>
+</details>
+
+<details><summary>Proyectos Creativos</summary>
+
 - [x] niupleis.com/vault
 - [x] niupleis.com/gallery
 - [ ] niupleis.com/pleisance
 - [ ] niupleis.com/pleisad
 - [ ] niupleis.com/PunkSuteki
+
 </details>
 
-###### <details><summary>niupleis.com → Fábrica de Waifus</summary>
+<details><summary>niupleis.com → Fábrica de Waifus</summary>
 
 - [ ] Maid Chan
 - [ ] Miki Stardom
@@ -53,4 +62,5 @@ El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientad
 - [ ] <del>Punk Suteki > Lis, Mishil, Jiwoon, Chaery</del>
 - [ ] ᒲᔑ⍑𝙹⚍ ᓭ⍑𝙹⚍⋮𝙹
 - [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
+
 </details>
