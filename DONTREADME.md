@@ -6,7 +6,7 @@ Hola. Soy tnkii y soy un desarrollador con experiencia en multiples lenguages y 
 
 También soy un artista así que mis proyectos suelen ser herramientas creativas o de aprendizaje.
 
-✧ ─────── • ─────── ♡ ─────── • ─────── ✧
+✧ ───── • ───── ♡ ───── • S───── ✧
 
 ## Mis proyectos:
 
@@ -16,41 +16,46 @@ El <a href="https://github.com/tnkii-dev/acordes">proyecto acordes</a>, orientad
 
 ---
 
-###### <details><summary>WEB</summary>
-- [x] [blog.niupleis.com](https://blog.niupleis.com/)
-- [x] [niupleis.com](https://niupleis.com/)
+###### WEB
+- [x] blog.niupleis.com
+- [ ] niupleis.com
 - [ ] <del style="background-color:#000;color:#000;">niupleis.online</del>
-</details>
 
-###### <details><summary>Opensource</summary>
+###### Opensource
 - [x] [acordes](https://github.com/tnkii-dev/acordes)
 - [x] [sexy knob](https://github.com/tnkii-dev/sexy-knob)
-- [ ] [NekoPlay.js](https://github.com/tnkii-dev/NekoPlay.js)
-</details>
+- [ ] [snappifree](https://github.com/tnkii-dev/snappifree)
 
-###### <details><summary>Juegos</summary>
-- [ ] <del>Mai Chan Cuddle Quest</del>
+###### Juegos
 - [ ] <del>Stellario</del>
-- [ ] ⊣╎∷ꖎᓭ ꖌ╎リ⊣↸𝙹ᒲ
-- [ ] ʖꖎᔑᓵꖌ !¡╎リꖌ ᑑ⚍ᒷᓭℸ ̣
-- [ ] ⊣⊣⊣
-- [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
+- [ ] <del style="background-color:#000;color:#000;">
+Maid Chan Adventure</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Girl's kingdom</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Black Pink Quest</del>
+- [ ] <del style="background-color:#000;color:#000;">
+GGG</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Animal Fighters</del>
 
-###### <details><summary>Proyectos Creativos</summary>
-- [x] niupleis.com/vault
-- [x] niupleis.com/gallery
-- [ ] niupleis.com/pleisance
+###### Proyectos Creativos
+- [ ] niupleis.com/VAULT
 - [ ] niupleis.com/pleisad
 - [ ] niupleis.com/PunkSuteki
-</details>
+- [ ] niupleis.com/tnkii
 
-###### <details><summary>niupleis.com → Fábrica de Waifus</summary>
+###### niupleis.com > Fábrica de Waifus
 
-- [ ] Maid Chan
-- [ ] Miki Stardom
+- [x] Maid Chan
 - [ ] Tsuki
 - [ ] <del>Ares (Stellario)</del>
 - [ ] <del>Punk Suteki > Lis, Mishil, Jiwoon, Chaery</del>
-- [ ] ᒲᔑ⍑𝙹⚍ ᓭ⍑𝙹⚍⋮𝙹
-- [ ] ᔑリ╎ᒲᔑꖎ ⎓╎⊣⍑ℸ ̣ ᒷ∷ᓭ
-</details>
+- [ ] <del style="background-color:#000;color:#000;">
+Mahou Shoujo</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Animal Fighters > Tazzy</del>
+- [ ] <del style="background-color:#000;color:#000;">
+*Goth Girl</del>
+- [ ] <del style="background-color:#000;color:#000;">
+Adora</del>
