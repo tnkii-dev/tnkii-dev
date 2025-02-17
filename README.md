@@ -13,7 +13,7 @@ Indie dev, Músico y Artista.
 
 **[NekoNoid](https://niupleis.com/games/NekoNoid/)** <br>
 Un clon ascii de Arkanoid<br>
-![NekoNoid](Nekonoid.jpg)
+![NekoNoid](https://niupleis.com/res/NekoNoid.jpg)
 
 ✧ ─────── • ─────── ♡ ─────── • ─────── ✧
 
